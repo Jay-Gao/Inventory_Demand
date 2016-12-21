@@ -1,1 +1,7 @@
+.gitignore
+raw_data/*
 data/*
+*.pyc
+models/*
+submission/*
+__pycache__/*
